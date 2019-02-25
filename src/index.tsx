@@ -1,6 +1,6 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import Button from './button/Button.tsx'
+import Button from 'react-button-xgy'
 // import Test from './test/Test'
 const App = () => {
     console.log(<Button>123</Button>)
