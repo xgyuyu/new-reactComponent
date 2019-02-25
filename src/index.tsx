@@ -7,7 +7,6 @@ const App = () => {
     // console.log(Test)
     return (
       <div>
-        123
         <Button
           text={'大号按钮'}
           type={'default'}
